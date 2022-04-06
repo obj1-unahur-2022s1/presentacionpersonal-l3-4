@@ -1,15 +1,14 @@
 # Presentación de Programación con Objetos I de Luciano Gagegnani
-- [x] Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
-- [x] Instituto de Tecnología e Ingeniería 
-- [x] Licenciatura en Informática
-- [x] Pagína Web de [Cursada](https://obj1-unahur.github.io/)
+-  Estudio en la Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
+-  Vivo en Hurlingam.
+-  Mi carrera es Tecnicatura en Programación
+-  Tengo 20 años.
 
-## Este cuatrimestre 
-* Modalidad Mixta - [Cronograma de Clase](https://docs.google.com/spreadsheets/d/19FZB2t00NWQ7dwygWRktajAV2mjbeTOqePBJ9XRWacw/edit?usp=sharing). 
-* 2 Comisiones (C1-Mañana / C2-Noche), pero es la misma materia y utilizamos la misma página.
-* Un docente principal por comisión con clases independientes. 
-* Este cuantrimestre los profesores somos [Gerardo González], **Lucas Spigariol** y **Hernan Coniglio**
-* Vamos a tener distintas alternativas de horarios para consultas y práctica.
+## Mis gustos.
+- Toco la guitarra.
+- Juego tenis en el taller de deportes de la UNAHUR.
+- De vez en cuando juego algunos juegos.
+- Me dedico a hacer codigos que no suelen funcionar.
 
-## dejamos una reflexión 🤪
-![somos todos](https://github.com/obj1-unahur-2022s1/PresentacionPersonal/blob/main/meme.jpg)
+## También me gustan los memes.
+![somos todos](descarga.jpg)
