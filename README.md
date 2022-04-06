@@ -1,4 +1,4 @@
-# Presentación de Programación con Objetos I de Luciano Gagegnani
+# Presentación de Programación con Objetos I de Luciano Garegnani
 -  Estudio en la Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
 -  Vivo en Hurlingam.
 -  Mi carrera es Tecnicatura en Programación
